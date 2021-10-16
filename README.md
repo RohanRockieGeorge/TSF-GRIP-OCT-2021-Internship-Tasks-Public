@@ -1,2 +1,2 @@
 # TSF-GRIP-OCT-2021-Internship-Tasks-Public-
-TSF-GRIP-OCT-2021-Internship - Task 1
+Task -1 - Sparks Foundation - Data Science and Business Analytical Task
